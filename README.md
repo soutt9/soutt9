@@ -4,4 +4,4 @@
   > Pioneered troll tools.
 
 Inquiries;
-| soutt999@gmail.com
+ > soutt999@gmail.com
