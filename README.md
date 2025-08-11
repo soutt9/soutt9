@@ -1,4 +1,4 @@
 @soutt9
-- 💻 Experience; C#, Java & Lua
-- 👑 Working on; Project Cry 2.0 & Skid's HUB || Pioneered troll tools.
-- 📩 Inquiries || soutt999@gmail.com
+- 🧠 Working with: C++, C#, Java & Lua
+- 🎓 In development: Spook External Roblox QoL.
+- 📩 Inquiries: soutt999@gmail.com
